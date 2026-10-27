@@ -1,0 +1,12 @@
+app/auth/callback/route.ts
+app/members/page.tsx
+app/page.tsx
+app/profile/page.tsx
+app/profile/profile-form.tsx
+components/auth-button.tsx
+lib/supabase/client.ts
+lib/supabase/proxy.ts
+lib/supabase/server.ts
+package-lock.json
+package.json
+proxy.ts
